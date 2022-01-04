@@ -1,0 +1,31 @@
+/***************************TAG SELECTOR******************************/
+
+body{
+  background-color: #EAF6F6;
+}
+
+hr{
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 4%;
+}
+
+h1{
+  color: #66BFBF;
+  font-family: arial;
+
+}
+
+h3{
+  color: #66BFBF;
+}
+
+/***************************CLASS SELECTOR******************************/
+
+.image{
+  width: 200px;
+  height: 250px;
+}
